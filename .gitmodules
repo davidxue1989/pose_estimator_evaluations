@@ -1,3 +1,33 @@
 [submodule "repos/hourglasstensorflow"]
 	path = repos/hourglasstensorflow
 	url = git@github.com:davidxue1989/hourglasstensorlfow.git
+[submodule "repos/tf-pose-estimation"]
+	path = repos/tf-pose-estimation
+	url = git@github.com:davidxue1989/tf-pose-estimation.git
+[submodule "repos/MobilePose-pytorch"]
+	path = repos/MobilePose-pytorch
+	url = git@github.com:davidxue1989/MobilePose-pytorch.git
+[submodule "repos/KerasPersonLab"]
+	path = repos/KerasPersonLab
+	url = git@github.com:davidxue1989/KerasPersonLab.git
+[submodule "repos/personlab-tf"]
+	path = repos/personlab-tf
+	url = git@github.com:davidxue1989/personlab-tf
+[submodule "repos/AlphaPose"]
+	path = repos/AlphaPose
+	url = git@github.com:davidxue1989/AlphaPose.git
+[submodule "repos/multi-pose-pytorch"]
+	path = repos/multi-pose-pytorch
+	url = git@github.com:davidxue1989/pytorch_Realtime_Multi-Person_Pose_Estimation.git
+[submodule "repos/openpose"]
+	path = repos/openpose
+	url = git@github.com:davidxue1989/openpose.git
+[submodule "repos/simple-baselines-for-human-pose-pytorch"]
+	path = repos/simple-baselines-for-human-pose-pytorch
+	url = git@github.com:davidxue1989/human-pose-estimation.pytorch.git
+[submodule "repos/flowtrack.pytorch"]
+	path = repos/flowtrack.pytorch
+	url = git@github.com:davidxue1989/flowtrack.pytorch.git
+[submodule "repos/DensePose"]
+	path = repos/DensePose
+	url = https://github.com/facebookresearch/DensePose.git
