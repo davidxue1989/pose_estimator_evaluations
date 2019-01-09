@@ -1,0 +1,3 @@
+[submodule "repos/hourglasstensorflow"]
+	path = repos/hourglasstensorflow
+	url = git@github.com:davidxue1989/hourglasstensorlfow.git
