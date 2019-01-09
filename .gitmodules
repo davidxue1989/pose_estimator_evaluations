@@ -31,3 +31,21 @@
 [submodule "repos/DensePose"]
 	path = repos/DensePose
 	url = https://github.com/facebookresearch/DensePose.git
+[submodule "repos/DensePose1"]
+	path = repos/DensePose1
+	url = git@github.com:davidxue1989/DensePose.git
+[submodule "repos/mask-rcnn-keras"]
+	path = repos/mask-rcnn-keras
+	url = git@github.com:davidxue1989/Keypoints-of-humanpose-with-Mask-R-CNN.git
+[submodule "repos/deephar"]
+	path = repos/deephar
+	url = git@github.com:davidxue1989/deephar.git
+[submodule "repos/mask-rcnn-keras-superlee"]
+	path = repos/mask-rcnn-keras-superlee
+	url = git@github.com:davidxue1989/Mask_RCNN_Humanpose.git
+[submodule "repos/integral-human-pose"]
+	path = repos/integral-human-pose
+	url = git@github.com:davidxue1989/integral-human-pose.git
+[submodule "repos/arttrack"]
+	path = repos/arttrack
+	url = git@github.com:davidxue1989/pose-tensorflow.git
