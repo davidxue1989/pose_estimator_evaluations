@@ -16,30 +16,15 @@
 [submodule "repos/AlphaPose"]
 	path = repos/AlphaPose
 	url = git@github.com:davidxue1989/AlphaPose.git
-[submodule "repos/multi-pose-pytorch"]
-	path = repos/multi-pose-pytorch
-	url = git@github.com:davidxue1989/pytorch_Realtime_Multi-Person_Pose_Estimation.git
-[submodule "repos/openpose"]
-	path = repos/openpose
-	url = git@github.com:davidxue1989/openpose.git
 [submodule "repos/simple-baselines-for-human-pose-pytorch"]
 	path = repos/simple-baselines-for-human-pose-pytorch
 	url = git@github.com:davidxue1989/human-pose-estimation.pytorch.git
-[submodule "repos/flowtrack.pytorch"]
-	path = repos/flowtrack.pytorch
-	url = git@github.com:davidxue1989/flowtrack.pytorch.git
 [submodule "repos/DensePose"]
 	path = repos/DensePose
 	url = https://github.com/facebookresearch/DensePose.git
-[submodule "repos/DensePose1"]
-	path = repos/DensePose1
-	url = git@github.com:davidxue1989/DensePose.git
 [submodule "repos/mask-rcnn-keras"]
 	path = repos/mask-rcnn-keras
 	url = git@github.com:davidxue1989/Keypoints-of-humanpose-with-Mask-R-CNN.git
-[submodule "repos/deephar"]
-	path = repos/deephar
-	url = git@github.com:davidxue1989/deephar.git
 [submodule "repos/mask-rcnn-keras-superlee"]
 	path = repos/mask-rcnn-keras-superlee
 	url = git@github.com:davidxue1989/Mask_RCNN_Humanpose.git
@@ -49,3 +34,15 @@
 [submodule "repos/arttrack"]
 	path = repos/arttrack
 	url = git@github.com:davidxue1989/pose-tensorflow.git
+[submodule "repos/later/multi-pose-pytorch"]
+	path = repos/later/multi-pose-pytorch
+	url = git@github.com:davidxue1989/pytorch_Realtime_Multi-Person_Pose_Estimation.git
+[submodule "repos/later/openpose"]
+	path = repos/later/openpose
+	url = git@github.com:davidxue1989/openpose.git
+[submodule "repos/later/flowtrack.pytorch"]
+	path = repos/later/flowtrack.pytorch
+	url = git@github.com:davidxue1989/flowtrack.pytorch.git
+[submodule "repos/later/deephar"]
+	path = repos/later/deephar
+	url = git@github.com:davidxue1989/deephar.git
